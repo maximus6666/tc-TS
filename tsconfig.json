@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+      "target": "ES5",
+      "lib": [ "es2015", "DOM", "DOM.Iterable" ],
+      "outFile": "script.js",
+      "removeComments": true,
+  },
+  "files": ["./src/main.ts"]
+}
+ 
